@@ -1,7 +1,5 @@
 This project involves building an interactive music analytics dashboard using Power BI. The workflow includes:
 
-Data Collection: Crawled data from the Spotify API, including artist profiles, track details, and audio features.
-
 Data Processing: Cleaned and transformed the raw data using Python (Pandas), preparing it for visualization.
 
 Data Visualization: Designed a 3-page Power BI dashboard:
